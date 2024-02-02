@@ -3,3 +3,4 @@
 * Não é necessário fazer testes e2e mas será apreciado
 * Utilize mocks quando necessário
 * O trabalho pode ser feito em grupo de até 5 pessoas.
+
