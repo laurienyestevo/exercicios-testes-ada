@@ -17,7 +17,6 @@ describe("SessionService", () => {
       email: "",
     };
     const res = SessionService.generateToken(invalidData);
-    console.log(res);
     expect(typeof res).toBe("string");
   });
 });
