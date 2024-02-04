@@ -2,7 +2,7 @@
 
 ## 📚Descrição 
 
-Projeto de  Testes Automatizados simulando criação de e autenticação de usuários. 
+Projeto de  Testes Automatizados simulando criação e autenticação de usuários. 
 
 ## 👥Mantenedores 
 
